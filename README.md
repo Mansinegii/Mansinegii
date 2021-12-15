@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?? mail mee-mahinegi@gmail.com
+- 📫 How to reach me ?? mail mee-mahinegi184199@gmail.com
 
 <!---
 Mansinegii/Mansinegii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
