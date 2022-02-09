@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mansinegii
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on open source project....
 - 📫 How to reach me ?? mail mee-mahinegi184199@gmail.com
 
 <!---
